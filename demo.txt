@@ -1,1 +1,1 @@
-writing the data asynchronously
+writing the data synchrnously

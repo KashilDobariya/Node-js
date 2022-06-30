@@ -25,7 +25,7 @@ const fs = require("fs");
 //   }
 // });
 
-// fs.writeFileSync("demo.txt", "writing the data synchrnously");
+fs.writeFileSync("demo.txt", "writing the data synchrnously");
 
 // fs.appendFile("demo.txt", "\n this is new line", (err) => {
 //   if (err) throw err;
