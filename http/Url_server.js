@@ -15,7 +15,7 @@ const server = http.createServer((req, res) => {
   //   console.log(req.url);
   console.log(q);
   if (q.uname == "admin" && q.upwd == "admin") {
-    res.write("<h1>Login Success</h1>");
+    res.write(`<h1 style= " background-color:lightblue; border:15px; border-radius:5px;"><center>Login Success</center></h1>`);
   } else {
     res.write("<h1>Login Fail</h1>");
   }
