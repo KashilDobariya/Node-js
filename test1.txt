@@ -1,0 +1,2 @@
+<h1 style= " background-color:lightblue; border:15px; border-radius:5px;"><center>writing the data synchrnously....</center><h1>
+<h1 style= " background-color:lightblue; border:15px; border-radius:5px;"><center>data appended synchronously....</center><h1>
